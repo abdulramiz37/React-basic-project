@@ -1,6 +1,6 @@
 
 import './App.css';
-import Adcomponent from './Adcomponent';
+import Adcomponent from './adds/Addcomponent';
 function App() {
   return (
     <div className="App">
