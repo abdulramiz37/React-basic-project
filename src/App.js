@@ -1,12 +1,12 @@
 
 import './App.css';
-
+import Adcomponent from './Adcomponent';
 function App() {
   return (
     <div className="App">
       <header className="App-header">
   <h1>hello this is my react project</h1>
-    
+  <Adcomponent />
       </header>
     </div>
   );
